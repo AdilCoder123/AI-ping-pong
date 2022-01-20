@@ -27,3 +27,16 @@ margin-bottom:100%;
 body {
   background-image: url("background1.jpg");
 }
+
+#racket
+{
+  width:100px;
+  height:100px;
+}
+#footer{
+  background-color: white;
+ bottom:0px;
+ position:absolute;
+ width:100%;
+
+}
